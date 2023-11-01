@@ -13,4 +13,4 @@ Google Fonts
 
 <h2> Screen Gif </h2>
 
-![](gif1)
+![](gif1.gif)
